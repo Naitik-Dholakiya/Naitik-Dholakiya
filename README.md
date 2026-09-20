@@ -1,18 +1,292 @@
-# 💫 About Me:
-🎯 I’m currently working on<br>Building full-stack web applications, experimenting with React, Laravel, and backend systems, and developing personal projects like expense trackers, resume builders, and password managers.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, web apps, AR/VR experiments in Unity, and creative front-end designs.<br><br>🆘 I’m looking for help with<br>Advanced system design, scalable backend architecture, cloud deployment, and improving performance and security.<br><br>🌱 I’m currently learning<br>React.js, Node.js, Firebase, Google Cloud, AR development with Unity, and modern UI/UX techniques.<br><br>💬 Ask me about<br>Laravel projects, Bootstrap designs, database modeling, Unity AR apps, resume builders, or turning ideas into working products.<br><br>⚡ Fun fact<br>I love creating visually stunning interfaces and experimenting with futuristic effects in web design.
+<div align="center">
 
+# 👋 Hi, I'm Naitik Dholakiya
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naitik-dholakiya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naitik.dholakiya08@gmail.com) 
+### 💻 Backend Developer | Laravel & PHP | Aspiring Full Stack Developer
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Naitik-Dholakiya&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Naitik-Dholakiya&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naitik-Dholakiya&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Building **scalable, secure and performance-focused web applications** with a strong focus on backend development, REST APIs, databases and modern web technologies.
+
+<p>
+  <a href="https://github.com/Naitik-Dholakiya">
+    <img src="https://img.shields.io/badge/GitHub-Naitik--Dholakiya-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:naitik.dholakiya08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Naitik-Dholakiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Naitik-Dholakiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a **Backend Developer and aspiring Full Stack Developer** with hands-on experience building web applications using **Laravel, PHP, MySQL, MariaDB, RESTful APIs, React and Bootstrap**.
+
+My development experience includes working on **ERP systems, database-driven applications, API development, database optimization, document processing and responsive interfaces**.
+
+I enjoy taking ideas from concept to implementation — designing the database, developing APIs and backend logic, integrating the frontend, and optimizing applications for reliability and performance.
+
+### 🔭 Currently Working On
+
+* 🏗️ Full-stack web applications
+* ⚙️ Laravel & PHP backend systems
+* 🗄️ Database architecture and optimization
+* 🔌 RESTful API development
+* 📊 ERP modules and business workflows
+* ⚛️ React-based frontend development
+* 🚀 Application performance optimization
+
+### 🌱 Currently Learning
+
+* React.js
+* Node.js
+* Firebase
+* Google Cloud
+* Advanced backend architecture
+* System design
+* Cloud deployment
+* Application security
+* Modern UI/UX
+* AR development with Unity
+
+### 🤝 Open to Collaborate On
+
+* Open-source projects
+* Laravel / PHP applications
+* Full-stack web applications
+* REST API projects
+* Database-driven systems
+* Creative frontend projects
+* Unity / AR experiments
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Backend Development
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</p>
+
+### ☁️ Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
+</p>
+
+---
+
+# 💼 What I Build
+
+### 🏢 ERP & Business Applications
+
+Experience working with business-critical applications involving:
+
+* Patient and policy management
+* Hospital / branch workflows
+* Billing and invoice systems
+* Payment processing
+* Document management
+* User roles and permissions
+* Business workflow automation
+* Communication systems
+* Reporting and exports
+
+### 🔌 Backend & API Development
+
+* RESTful API design
+* CRUD operations
+* Authentication and authorization
+* Request validation
+* Database transactions
+* Error handling
+* API integrations
+* Backend optimization
+
+### 🗄️ Database Engineering
+
+* Relational database design
+* Database normalization
+* Complex SQL queries
+* Joins and subqueries
+* Query optimization
+* Indexing
+* Data integrity
+* Large dataset handling
+
+### ⚡ Performance & Reliability
+
+I focus on:
+
+* Efficient database queries
+* Scalable backend architecture
+* Reducing unnecessary API/database calls
+* Debugging production issues
+* Clean and maintainable code
+* Secure data handling
+* Efficient document processing
+* Faster exports and reporting
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Naitik-Dholakiya/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naitik-Dholakiya&repo=Portfolio&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Naitik-Dholakiya/my-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naitik-Dholakiya&repo=my-portfolio&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Naitik-Dholakiya/password-manager">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naitik-Dholakiya&repo=password-manager&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Naitik-Dholakiya/resume-builder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naitik-Dholakiya&repo=resume-builder&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/Naitik-Dholakiya">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Naitik-Dholakiya&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/Naitik-Dholakiya">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitik-Dholakiya&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+</a>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/Naitik-Dholakiya">
+<img src="https://streak-stats.demolab.com?user=Naitik-Dholakiya&hide_border=true&theme=transparent" />
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/Naitik-Dholakiya">
+<img src="https://github-profile-trophy.vercel.app/?username=Naitik-Dholakiya&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</a>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Naitik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naitik-Dholakiya\&hide_border=true\&area=true)](https://github.com/Naitik-Dholakiya)
+
+</div>
+
+---
+
+# 🧠 Development Philosophy
+
+```text
+Clean Code
+    ↓
+Good Architecture
+    ↓
+Efficient Database
+    ↓
+Secure APIs
+    ↓
+Optimized Performance
+    ↓
+Reliable Applications
+```
+
+I believe good software isn't just about making something work.
+
+It's about building something that is:
+
+**Reliable • Maintainable • Secure • Scalable • Performant**
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Build production-ready full-stack applications
+* 🧠 Strengthen system design knowledge
+* ☁️ Learn and implement cloud architecture
+* ⚡ Improve backend performance and scalability
+* 🔐 Strengthen application security
+* 🤝 Contribute more to open-source projects
+* 📚 Continue learning modern development technologies
+* 💡 Turn more ideas into real-world products
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:naitik.dholakiya08@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Naitik-Dholakiya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💻 "Build. Learn. Improve. Repeat."
+
+⭐ If you find my projects useful, consider giving them a star!
+
+</div>
