@@ -1,129 +1,95 @@
-<h1 align="center">Hi there, I'm Naitik Dholakiya 👋</h1>
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<div align="center">
 
-<h3 align="center">💻 Backend Developer | Laravel & PHP | Aspiring Full Stack Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Naitik%20Dholakiya&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Laravel%20%26%20PHP%20%C2%B7%20Aspiring%20Full%20Stack%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="Naitik Dholakiya banner" />
 
-<p align="center">
-Building <b>scalable, secure and performance-focused</b> web applications with a strong
-focus on backend development, REST APIs, databases and modern web technologies.
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable%2C+secure+web+applications;Designing+databases+%E2%86%92+APIs+%E2%86%92+interfaces;Laravel+%7C+PHP+%7C+MySQL+%7C+REST+APIs;Build.+Learn.+Improve.+Repeat." alt="Typing animation" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Naitik-Dholakiya">
-    <img src="https://img.shields.io/badge/GitHub-Naitik--Dholakiya-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/naitik-dholakiya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Naitik%20Dholakiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naitik.dholakiya08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naitik-Dholakiya&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Naitik--Dholakiya-181717?style=for-the-badge&logo=github)](https://github.com/Naitik-Dholakiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naitik%20Dholakiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naitik-dholakiya/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naitik.dholakiya08@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Naitik-Dholakiya&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Naitik-Dholakiya?label=Followers&style=flat-square&color=38bdf8)
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 MCA (Semester III) student at **CMPICA, CHARUSAT**, Changa
-- 💻 Backend Developer with hands-on experience in **Laravel, PHP, MySQL, MariaDB, REST APIs, React & Bootstrap**
-- 🏢 Experience building **ERP systems, database-driven applications, document processing tools and responsive interfaces**
-- 🔭 I enjoy taking ideas from concept to implementation — designing the database, building APIs and backend logic, integrating the frontend, and optimizing for reliability and performance
-- 📚 Currently studying **Software Quality Assurance** as part of my coursework
+I'm a **backend-focused developer** who enjoys taking an idea from a blank page to a working product: modelling the data, building the APIs and business logic, wiring up the interface, and then tuning it until it's reliable.
 
-**🔭 Currently Working On**
-- 🏗️ Full-stack web applications
-- ⚙️ Laravel & PHP backend systems
-- 🗄️ Database architecture & optimization
-- 🔌 RESTful API development
-- 📊 ERP modules and business workflows
+- 🎓 **MCA (Semester III)** at **CMPICA, CHARUSAT**, Changa
+- 🧱 Hands-on with **Laravel, PHP, MySQL, MariaDB, REST APIs, React and Bootstrap**
+- 🏢 Experience building **ERP systems, database-driven applications, document-processing tools and responsive UIs**
+- 🧪 Currently studying **Software Quality Assurance**, which is shaping how I think about testing and reliability
+- 🤝 Open to collaborating on **open-source, Laravel/PHP apps, REST API projects and full-stack builds**
 
-**🌱 Currently Learning**
-- React.js · Node.js · Firebase · Google Cloud
-- System design · Cloud deployment · Application security
-- AR development with Unity
-
-**🤝 Open to Collaborate On**
-- Open-source projects · Laravel/PHP applications
-- Full-stack web apps · REST API projects
-- Database-driven systems · Unity/AR experiments
+> *"Good software isn't just software that works. It's software that stays* ***reliable, maintainable, secure, scalable and fast*** *as it grows."*
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Backend**
+<div align="center">
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-025B9B?style=for-the-badge&logo=fastapi&logoColor=white" />
+| Layer | Technologies |
+|:---:|:---|
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20APIs-025B9B?style=flat-square&logo=fastapi&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
+| **Tools & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
 
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-**Database**
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-
-**Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
+</div>
 
 ---
 
-### 💼 What I Build
+## 💼 What I Build
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🏢 ERP & Business Applications**
-- Patient & policy management
-- Hospital / branch workflows
-- Billing & invoice systems
-- Payment processing & document management
-- User roles, permissions & workflow automation
+### 🏢 ERP & Business Applications
+- Patient and policy management
+- Hospital and branch workflows
+- Billing and invoice systems
+- Payment processing and document management
+- Roles, permissions and workflow automation
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🔌 Backend & API Development**
-- RESTful API design & CRUD operations
-- Authentication & authorization
-- Request validation & database transactions
-- Error handling & API integrations
+### 🔌 Backend & API Development
+- RESTful API design and CRUD operations
+- Authentication and authorization
+- Request validation and DB transactions
+- Error handling and third-party integrations
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🗄️ Database Engineering**
-- Relational database design & normalization
-- Complex SQL queries, joins & subqueries
-- Query optimization & indexing
-- Data integrity & large dataset handling
+### 🗄️ Database Engineering
+- Relational design and normalization
+- Complex SQL: joins, subqueries, aggregations
+- Query optimization and indexing
+- Data integrity and large-dataset handling
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**⚡ Performance & Reliability**
-- Efficient database queries
+### ⚡ Performance & Reliability
+- Efficient, index-aware queries
 - Scalable backend architecture
 - Debugging production issues
-- Clean, maintainable & secure code
+- Clean, maintainable, secure code
 
 </td>
 </tr>
@@ -131,75 +97,120 @@ focus on backend development, REST APIs, databases and modern web technologies.
 
 ---
 
-### 📌 Featured Projects
+## 🧭 How I Work
 
-| Project | Description | Tech |
-|---|---|---|
-| [**Portfolio**](https://github.com/Naitik-Dholakiya/Portfolio) | Personal portfolio website | CSS |
-| [**my-portfolio**](https://github.com/Naitik-Dholakiya/my-portfolio) | Personal portfolio (v2) | JavaScript |
-| [**resume-builder**](https://github.com/Naitik-Dholakiya/resume-builder) | Web app to build resumes | JavaScript |
-| [**password-manager**](https://github.com/Naitik-Dholakiya/password-manager) | Secure password manager app | JavaScript |
-| [**Face-Recognition**](https://github.com/Naitik-Dholakiya/Face-Recogination) | Facial recognition project | Python |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Naitik-Dholakiya&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitik-Dholakiya&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Naitik-Dholakiya&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naitik-Dholakiya&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naitik-Dholakiya&hide_border=true&theme=tokyo-night&area=true" />
-</p>
-
----
-
-### 🧠 Development Philosophy
-
-```
-Clean Code → Good Architecture → Efficient Database
-   → Secure APIs → Optimized Performance → Reliable Applications
+```mermaid
+flowchart LR
+    A[💡 Requirements] --> B[🗄️ Database Design]
+    B --> C[⚙️ Backend & APIs]
+    C --> D[🎨 Frontend Integration]
+    D --> E[🧪 Testing & QA]
+    E --> F[🚀 Deploy & Optimize]
+    F -.feedback.-> A
 ```
 
-I believe good software isn't just about making something work — it's about building
-something that is **Reliable • Maintainable • Secure • Scalable • Performant**.
+---
+
+## 🔭 Focus Areas
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🏗️ Building
+- Full-stack web apps
+- Laravel and PHP backends
+- ERP modules and workflows
+- RESTful APIs
+
+</td>
+<td width="33%" valign="top">
+
+### 🌱 Learning
+- React.js and Node.js
+- Firebase and Google Cloud
+- System design
+- Cloud deployment
+- Application security
+- AR development with Unity
+
+</td>
+<td width="33%" valign="top">
+
+### 🤝 Collaborating On
+- Open-source projects
+- Laravel/PHP applications
+- REST API projects
+- Database-driven systems
+- Unity/AR experiments
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎯 2026 Goals
+## 📌 Featured Projects
 
-- 🚀 Build production-ready full-stack applications
-- 🧠 Strengthen system design knowledge
-- ☁️ Learn and implement cloud architecture
-- 🔐 Strengthen application security
-- 🤝 Contribute more to open-source projects
+| Project | What it is | Stack |
+|:---|:---|:---:|
+| 🔐 [**password-manager**](https://github.com/Naitik-Dholakiya/password-manager) | Secure password manager app | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 📄 [**resume-builder**](https://github.com/Naitik-Dholakiya/resume-builder) | Web app for building and exporting resumes | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🧑‍🎨 [**my-portfolio**](https://github.com/Naitik-Dholakiya/my-portfolio) | Personal portfolio, v2 | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🌐 [**Portfolio**](https://github.com/Naitik-Dholakiya/Portfolio) | Personal portfolio, v1 | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🧠 [**Face-Recognition**](https://github.com/Naitik-Dholakiya/Face-Recogination) | Facial recognition project | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+> 🏢 Much of my backend work (ERP, billing, policy and hospital systems) is built in private, so it isn't listed here. Happy to talk through it.
 
 ---
 
-### 📫 Let's Connect
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naitik-dholakiya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naitik.dholakiya08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Naitik-Dholakiya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<h3 align="center">💻 "Build. Learn. Improve. Repeat."</h3>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Naitik-Dholakiya&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitik-Dholakiya&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 
-<p align="center">⭐ If you find my projects useful, consider giving them a star!</p>
+<img src="https://streak-stats.demolab.com/?user=Naitik-Dholakiya&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+
+<details>
+<summary><b>🏆 Trophies & activity graph</b></summary>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Naitik-Dholakiya&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naitik-Dholakiya&hide_border=true&theme=tokyo-night&area=true" alt="Activity graph" />
+
+</details>
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] 🚀 Ship production-ready full-stack applications
+- [ ] 🧠 Deepen system design knowledge
+- [ ] ☁️ Learn and apply cloud architecture
+- [ ] 🔐 Strengthen application security
+- [ ] 🤝 Contribute more to open source
+
+---
+
+## 📫 Let's Connect
+
+Have a project, an idea, or an open-source repo that needs a backend hand? I'd love to hear from you.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naitik-dholakiya/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naitik.dholakiya08@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Naitik-Dholakiya)
+
+<br/>
+
+**⭐ If any of my projects helped you, a star means a lot!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
+
+</div>
